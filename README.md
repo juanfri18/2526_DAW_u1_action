@@ -272,7 +272,7 @@ La idea es que no solo no repitais el ejemplo, sino que **investigueis, mejoreis
 
 ---
 
-### 5. **Ejecutar en múltiples entornos (matrix)**
+### 5. **Ejecutar en múltiples entornos ()**
 
 * Hacer que los tests se ejecuten en:
     
